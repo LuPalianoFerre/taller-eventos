@@ -10,4 +10,5 @@ document.body.appendChild(div);
 
 div.addEventListener('click', function() {
 alert('Hola! Soy el div');
-});
+}, true);
+
